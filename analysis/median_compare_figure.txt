@@ -1,0 +1,41 @@
+Journal	median	median_noncovid	median_precovid	multiplier
+The Lancet	16	143	160	10
+Journal of Thoracic Oncology	16	104.5	116	7.25
+Annals of Neurology	17	138	137	8.05882352941176
+European Journal of Heart Failure	18	103.5	97	5.38888888888889
+Annals of the Rheumatic Diseases	19	45	65	3.42105263157895
+The Lancet Global Health	20	76	96.5	4.825
+Lancet Respiratory Medicine,The	20	100	86.5	4.325
+The Lancet Oncology	21	80.5	83	3.95238095238095
+Gastroenterology	21	75	98	4.66666666666667
+Journal of Hepatology	21	122.5	122	5.80952380952381
+eLife	22	142	138	6.27272727272727
+Journal of the American College of Cardiology	24	107	120	5
+The Lancet Infectious Diseases	25	119.5	109	4.36
+Ophthalmology	25	145.5	145	5.8
+European Journal of Epidemiology	25.5	172	153	6
+Gut	26	100.5	117	4.5
+American Journal of Obstetrics and Gynecology	27	95	101	3.74074074074074
+Clinical Infectious Diseases	28	97	112.5	4.01785714285714
+Intensive Care Medicine	28	89	67	2.39285714285714
+Leukemia	30	130	148	4.93333333333333
+European Respiratory Journal	30	100	93	3.1
+The Lancet Diabetes and Endocrinology	31	73	70	2.25806451612903
+European Journal of Cancer	32	115	116	3.625
+Journal of Allergy and Clinical Immunology	33	131	135	4.09090909090909
+Kidney International	34	162	200	5.88235294117647
+Science	35.5	213	191	5.38028169014085
+Blood	38.5	159	131.5	3.41558441558442
+The Lancet Psychiatry	39	60	61	1.56410256410256
+Cell Research	40	130	131.5	3.2875
+European Heart Journal	40	130.5	184.5	4.6125
+Diabetes Care	44	161	160	3.63636363636364
+Cell	46	222	224	4.86956521739131
+Journal of Neurology, Neurosurgery and Psychiatry	46	108.5	125	2.71739130434783
+Journal of Heart and Lung Transplantation	48.5	115	124	2.55670103092784
+BMC Medicine	48.5	157.5	152	3.1340206185567
+Journal of the American Society of Nephrology : JASN	49.5	228	210	4.24242424242424
+Nature	57	305.5	284	4.98245614035088
+Nature Medicine	62	241	262.5	4.23387096774194
+Journal of the American Society of Echocardiography	62	154	161	2.59677419354839
+Nature Communications	64.5	238	227	3.51937984496124

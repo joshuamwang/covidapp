@@ -1,0 +1,201 @@
+ISSN	median_precovid	count_precovid	median_noncovid	count_noncovid	median	count	Journal	Rank	Categories	Publisher	covid_completeness	noncovid_completeness	precovid_completeness
+1097-4172	224	250	222	190	46	27	Cell	8	Biochemistry, Genetics and Molecular Biology (miscellaneous) (Q1)	Cell Press	0.75	0.659722222222222	0.737463126843658
+1546-170X	262.5	114	241	107	62	29	Nature Medicine	22	Biochemistry, Genetics and Molecular Biology (miscellaneous) (Q1); Medicine (miscellaneous) (Q1)	Nature Publishing Group	0.337209302325581	0.469298245614035	0.5
+1474-5488	83	231	80.5	196	21	24	The Lancet Oncology	23	Oncology (Q1)	Lancet Publishing Group	0.666666666666667	0.809917355371901	0.66189111747851
+1474-547X	160	674	143	434	16	232	The Lancet	29	Medicine (miscellaneous) (Q1)	Elsevier Ltd.	0.791808873720137	0.686708860759494	0.689866939611054
+1476-4687	284	513	305.5	526	57	35	Nature	33	Multidisciplinary (Q1)	Nature Publishing Group	0.132575757575758	0.354208754208754	0.37417943107221
+1095-9203	191	418	213	383	35.5	46	Science	42	History and Philosophy of Science (Q1); Multidisciplinary (Q1)	American Association for the Advancement of Science	0.238341968911917	0.423672566371681	0.389199255121043
+1558-3597	120	497	107	458	24	27	Journal of the American College of Cardiology	69	Cardiology and Cardiovascular Medicine (Q1)	Elsevier USA	0.710526315789474	0.899803536345776	0.893884892086331
+2213-8595	70	93	73	86	31	12	The Lancet Diabetes and Endocrinology	82	Endocrinology (Q1); Endocrinology, Diabetes and Metabolism (Q1); Internal Medicine (Q1)	Elsevier BV	0.75	0.868686868686869	0.732283464566929
+1474-4457	109	204	119.5	186	25	139	The Lancet Infectious Diseases	88	Infectious Diseases (Q1)	Lancet Publishing Group	0.879746835443038	0.778242677824268	0.846473029045643
+2214-109X	96.5	168	76	124	20	57	The Lancet Global Health	110	Medicine (miscellaneous) (Q1)	Elsevier BV	0.934426229508197	0.892086330935252	0.894179894179894
+1468-3288	117	166	100.5	176	26	38	Gut	121	Gastroenterology (Q1)	BMJ Publishing Group	1	0.983240223463687	0.965116279069768
+2213-2619	86.5	102	100	88	20	67	Lancet Respiratory Medicine,The	136	Pulmonary and Respiratory Medicine (Q1)	Elsevier Ltd.	0.761363636363636	0.6875	0.698630136986301
+2215-0374	61	129	60	103	39	45	The Lancet Psychiatry	161	Biological Psychiatry (Q1); Psychiatry and Mental Health (Q1)	Elsevier Ltd.	0.918367346938776	0.774436090225564	0.791411042944785
+1528-0012	98	304	75	366	21	94	Gastroenterology	169	Gastroenterology (Q1); Hepatology (Q1)	W.B. Saunders Ltd	0.94	0.917293233082707	0.802110817941952
+1600-0641	122	217	122.5	228	21	31	Journal of Hepatology	171	Hepatology (Q1)	Elsevier	1	0.982758620689655	0.981900452488688
+1935-5548	160	195	161	205	44	17	Diabetes Care	180	Advanced and Specialized Nursing (Q1); Endocrinology, Diabetes and Metabolism (Q1); Internal Medicine (Q1)	American Diabetes Association Inc.	0.85	0.807086614173228	0.698924731182796
+1468-2060	65	272	45	249	19	130	Annals of the Rheumatic Diseases	192	Biochemistry, Genetics and Molecular Biology (miscellaneous) (Q1); Immunology (Q1); Immunology and Allergy (Q1); Rheumatology (Q1)	BMJ Publishing Group	1	0.984189723320158	0.957746478873239
+1748-7838	131.5	46	130	63	40	10	Cell Research	193	Cell Biology (Q1); Molecular Biology (Q1)	Nature Publishing Group	0.769230769230769	0.623762376237624	0.666666666666667
+2050-084X	138	872	142	1048	22	23	eLife	198	Biochemistry, Genetics and Molecular Biology (miscellaneous) (Q1); Immunology and Microbiology (miscellaneous)  (Q1); Medicine (miscellaneous) (Q1); Neuroscience (miscellaneous) (Q1)	eLife Sciences Publications	1	0.984037558685446	0.987542468856172
+1522-9645	184.5	106	130.5	156	40	23	European Heart Journal	214	Cardiology and Cardiovascular Medicine (Q1)	Oxford University Press	0.273809523809524	0.352144469525959	0.288828337874659
+2041-1723	227	2991	238	3426	64.5	20	Nature Communications	238	Biochemistry, Genetics and Molecular Biology (miscellaneous) (Q1); Chemistry (miscellaneous) (Q1); Physics and Astronomy (miscellaneous) (Q1)	Nature Publishing Group	0.952380952380952	0.944582299421009	0.938500156887355
+1879-0844	97	134	103.5	214	18	19	European Journal of Heart Failure	240	Cardiology and Cardiovascular Medicine (Q1)	Wiley-Blackwell	1	0.972727272727273	0.957142857142857
+1528-0020	131.5	228	159	331	38.5	12	Blood	252	Biochemistry (Q1); Cell Biology (Q1); Hematology (Q1); Immunology (Q1)	American Society of Hematology	0.545454545454545	0.615241635687732	0.531468531468532
+1531-8249	137	123	138	159	17	11	Annals of Neurology	290	Neurology (Q1); Neurology (clinical) (Q1)	John Wiley and Sons Inc.	1	1	0.984
+1549-4713	145	183	145.5	264	25	23	Ophthalmology	330	Ophthalmology (Q1)	Elsevier Inc.	1	0.974169741697417	0.973404255319149
+1533-3450	210	101	228	103	49.5	12	Journal of the American Society of Nephrology : JASN	331	Medicine (miscellaneous) (Q1); Nephrology (Q1)	American Society of Nephrology	0.444444444444444	0.715277777777778	0.687074829931973
+1537-6591	112.5	302	97	650	28	277	Clinical Infectious Diseases	352	Infectious Diseases (Q1); Microbiology (medical) (Q1)	Oxford University Press	1	0.906555090655509	0.729468599033817
+1476-5551	148	170	130	250	30	22	Leukemia	390	Anesthesiology and Pain Medicine (Q1); Cancer Research (Q1); Hematology (Q1); Oncology (Q1)	Nature Publishing Group	1	0.943396226415094	0.939226519337017
+1557-3117	124	99	115	117	48.5	18	Journal of Heart and Lung Transplantation	397	Cardiology and Cardiovascular Medicine (Q1); Pulmonary and Respiratory Medicine (Q1); Surgery (Q1); Transplantation (Q1)	Elsevier USA	1	0.966942148760331	0.98019801980198
+1097-6825	135	265	131	251	33	39	Journal of Allergy and Clinical Immunology	446	Immunology (Q1); Immunology and Allergy (Q1)	Mosby Inc.	1	0.984313725490196	0.974264705882353
+1097-6795	161	100	154	99	62	19	Journal of the American Society of Echocardiography	485	Cardiology and Cardiovascular Medicine (Q1); Radiology, Nuclear Medicine and Imaging (Q1)	Mosby Inc.	0.95	0.818181818181818	0.833333333333333
+1741-7015	152	140	157.5	164	48.5	32	BMC Medicine	492	Medicine (miscellaneous) (Q1)	BioMed Central Ltd.	0.96969696969697	0.982035928143713	1
+1432-1238	67	137	89	141	28	29	Intensive Care Medicine	515	Critical Care and Intensive Care Medicine (Q1)	Springer Verlag	0.386666666666667	0.640909090909091	0.744565217391304
+1573-7284	153	59	172	52	25.5	12	European Journal of Epidemiology	517	Epidemiology (Q1)	Springer Netherlands	1	0.981132075471698	0.951612903225806
+1523-1755	200	247	162	256	34	35	Kidney International	524	Nephrology (Q1)	Elsevier Inc.	1	0.977099236641221	0.988
+1879-0852	116	188	115	205	32	26	European Journal of Cancer	529	Cancer Research (Q1); Oncology (Q1)	Elsevier Ltd.	1	0.985576923076923	0.994708994708995
+1399-3003	93	241	100	370	30	104	European Respiratory Journal	530	Medicine (miscellaneous) (Q1); Pulmonary and Respiratory Medicine (Q1)	European Respiratory Society	1	0.971128608923885	0.991769547325103
+1468-330X	125	120	108.5	120	46	11	Journal of Neurology, Neurosurgery and Psychiatry	566	Neurology (clinical) (Q1); Psychiatry and Mental Health (Q1); Surgery (Q1)	BMJ Publishing Group	1	0.991735537190083	0.983606557377049
+1097-6868	101	302	95	285	27	31	American Journal of Obstetrics and Gynecology	570	Obstetrics and Gynecology (Q1)	Mosby Inc.	0.939393939393939	0.940594059405941	0.977346278317152
+1556-1380	116	193	104.5	154	16	17	Journal of Thoracic Oncology	590	Medicine (miscellaneous) (Q1); Oncology (Q1); Pulmonary and Respiratory Medicine (Q1)	International Association for the Study of Lung Cancer	1	0.993548387096774	0.965
+1873-1570	92	294	97	246	17	35	Resuscitation	626	Cardiology and Cardiovascular Medicine (Q1); Emergency Medicine (Q1); Emergency Nursing (Q1)	Elsevier Ireland Ltd	0.972222222222222	0.995951417004049	1
+1097-0142	147	273	134	311	56.5	10	Cancer	643	Cancer Research (Q1); Oncology (Q1)	John Wiley and Sons Inc.	0.833333333333333	0.866295264623956	0.791304347826087
+1398-9995	122	122	126.5	186	27	22	Allergy: European Journal of Allergy and Clinical Immunology	645	Immunology (Q1); Immunology and Allergy (Q1)	Wiley-Blackwell Publishing Ltd	0.594594594594595	0.735177865612648	0.567441860465116
+1526-632X	239	341	280	375	37	35	Neurology	658	Neurology (clinical) (Q1)	Lippincott Williams and Wilkins Ltd.	0.833333333333333	0.484496124031008	0.50593471810089
+1600-6143	120	161	110	199	25	64	American Journal of Transplantation	665	Immunology and Allergy (Q1); Pharmacology (medical) (Q1); Transplantation (Q1)	Wiley-Blackwell Publishing Ltd	0.744186046511628	0.681506849315069	0.83419689119171
+1531-8257	116	181	121.5	204	10	19	Movement Disorders	679	Neurology (Q1); Neurology (clinical) (Q1)	John Wiley and Sons Inc.	1	0.995121951219512	0.962765957446809
+1537-6613	89	197	99	294	41	49	Journal of Infectious Diseases	680	Immunology and Allergy (Q1); Infectious Diseases (Q1)	Oxford University Press	0.98	0.823529411764706	0.887387387387387
+1469-0691	102	207	92	195	41	68	Clinical Microbiology and Infection	682	Infectious Diseases (Q1); Medicine (miscellaneous) (Q1); Microbiology (medical) (Q1)	Elsevier Ltd.	1	0.975	0.981042654028436
+1097-6744	181.5	108	166	131	44.5	12	American Heart Journal	709	Cardiology and Cardiovascular Medicine (Q1)	Mosby Inc.	0.923076923076923	0.963235294117647	0.915254237288136
+1556-3871	79	193	71	185	20	19	Heart Rhythm	716	Cardiology and Cardiovascular Medicine (Q1); Physiology (medical) (Q1)	Elsevier	1	1	0.984693877551021
+1469-0705	85.5	86	100	138	21	15	Ultrasound in Obstetrics and Gynecology	726	Medicine (miscellaneous) (Q1); Obstetrics and Gynecology (Q1); Radiological and Ultrasound Technology (Q1); Radiology, Nuclear Medicine and Imaging (Q1); Reproductive Medicine (Q1)	John Wiley and Sons Ltd	0.652173913043478	0.926174496644295	0.868686868686869
+1523-6838	204	139	214	131	29	16	American Journal of Kidney Diseases	760	Nephrology (Q1)	W.B. Saunders Ltd	1	0.984962406015038	0.945578231292517
+1878-5921	148	118	147	162	33	15	Journal of Clinical Epidemiology	798	Epidemiology (Q1)	Elsevier USA	0.9375	0.952941176470588	0.936507936507937
+1549-490X	156	249	168	294	29.5	14	Oncologist	840	Cancer Research (Q1); Medicine (miscellaneous) (Q1); Oncology (Q1)	AlphaMed Press	1	0.967105263157895	0.996
+1931-3543	140	294	169	465	32	57	Chest	856	Cardiology and Cardiovascular Medicine (Q1); Critical Care and Intensive Care Medicine (Q1); Pulmonary and Respiratory Medicine (Q1)	American College of Chest Physicians	0.982758620689655	1	0.98989898989899
+1090-2139	131	237	103	183	10	102	Brain, Behavior, and Immunity	857	Behavioral Neuroscience (Q1); Endocrine and Autonomic Systems (Q1); Immunology (Q1)	Academic Press Inc.	1	0.973404255319149	0.99163179916318
+2042-0226	71	71	48	129	21.5	22	Cellular and Molecular Immunology	864	Immunology (Q1); Immunology and Allergy (Q1); Infectious Diseases (Q1); Medicine (miscellaneous) (Q1)	Nature Publishing Group	0.956521739130435	0.984732824427481	0.972602739726027
+1708-8305	37	42	50	43	20.5	64	Journal of Travel Medicine	900	Infectious Diseases (Q1); Medicine (miscellaneous) (Q1); Public Health, Environmental and Occupational Health (Q1)	Oxford University Press	0.927536231884058	0.843137254901961	1
+1463-1326	92	167	84	167	23	11	Diabetes, Obesity and Metabolism	901	Endocrinology (Q1); Endocrinology, Diabetes and Metabolism (Q1); Internal Medicine (Q1)	Wiley-Blackwell Publishing Ltd	1	0.976608187134503	0.976608187134503
+1476-5381	179	158	192	183	29.5	20	British Journal of Pharmacology	906	Pharmacology (Q1)	Wiley-Blackwell	0.952380952380952	0.928934010152284	0.951807228915663
+1532-8406	101	416	95	481	23	23	Journal of Arthroplasty	916	Orthopedics and Sports Medicine (Q1)	Churchill Livingstone	1	0.987679671457906	0.978823529411765
+1945-7197	105	161	91	371	17	10	Journal of Clinical Endocrinology and Metabolism	919	Biochemistry (Q1); Biochemistry (medical) (Q1); Clinical Biochemistry (Q1); Endocrinology (Q1); Endocrinology, Diabetes and Metabolism (Q1); Medicine (miscellaneous) (Q1)	Endocrine Society	1	0.971204188481675	0.936046511627907
+1879-0305	50	26	54	29	22	14	Cytokine and Growth Factor Reviews	946	Biochemistry, Genetics and Molecular Biology (miscellaneous) (Q1); Endocrinology, Diabetes and Metabolism (Q1); Immunology (Q1); Immunology and Allergy (Q1)	Elsevier BV	0.823529411764706	0.966666666666667	1
+1096-8652	30	148	42	177	10	26	American Journal of Hematology	954	Hematology (Q1)	Wiley-Liss Inc.	1	0.983333333333333	1
+1471-6771	146	250	100.5	214	32.5	84	British Journal of Anaesthesia	969	Anesthesiology and Pain Medicine (Q1)	Elsevier Ltd.	0.988235294117647	0.995348837209302	0.9765625
+1466-609X	91	245	93	247	28	181	Critical Care	978	Critical Care and Intensive Care Medicine (Q1)	BioMed Central Ltd.	1	0.928571428571429	0.953307392996109
+1838-7640	184	302	163	498	60	11	Theranostics	1000	Medicine (miscellaneous) (Q1); Pharmacology, Toxicology and Pharmaceutics (miscellaneous) (Q1)	Ivyspring International Publisher	1	0.978388998035363	0.996699669966997
+1365-2168	175.5	164	106.5	262	33	95	British Journal of Surgery	1031	Surgery (Q1)	John Wiley and Sons Ltd	1	0.925795053003534	0.926553672316384
+1873-0183	102.5	88	119	74	18	29	Autoimmunity Reviews	1047	Immunology (Q1); Immunology and Allergy (Q1)	Elsevier	1	0.986666666666667	0.936170212765957
+1542-7714	82	323	77	327	19	37	Clinical Gastroenterology and Hepatology	1093	Gastroenterology (Q1); Hepatology (Q1)	W.B. Saunders Ltd	0.973684210526316	0.967455621301775	0.958456973293769
+1942-5546	217	247	162	215	47	27	Mayo Clinic Proceedings	1131	Medicine (miscellaneous) (Q1)	Elsevier Science	1	0.99537037037037	0.988
+1532-8600	81	87	94	73	13	21	Metabolism: Clinical and Experimental	1177	Endocrinology (Q1); Endocrinology, Diabetes and Metabolism (Q1)	W.B. Saunders Ltd	0.91304347826087	0.960526315789474	0.988636363636364
+1619-7089	100.5	162	102	203	36	33	European Journal of Nuclear Medicine and Molecular Imaging	1190	Medicine (miscellaneous) (Q1); Radiology, Nuclear Medicine and Imaging (Q1)	Springer Verlag	0.846153846153846	0.852941176470588	0.964285714285714
+1664-3224	141	1623	140	1562	75.5	46	Frontiers in Immunology	1192	Immunology (Q1); Immunology and Allergy (Q1)	Frontiers Media S.A.	1	1	1
+1095-9157	81	82	78	63	28.5	10	Journal of Autoimmunity	1200	Immunology (Q1); Immunology and Allergy (Q1)	Academic Press Inc.	1	0.954545454545455	0.987951807228916
+1861-0692	98	116	106	96	36	15	Clinical Research in Cardiology	1201	Cardiology and Cardiovascular Medicine (Q1); Medicine (miscellaneous) (Q1)	D. Steinkopff-Verlag	1	0.932038834951456	0.991452991452991
+1879-1972	181.5	180	183.5	208	50.5	16	Journal of Adolescent Health	1202	Pediatrics, Perinatology and Child Health (Q1); Psychiatry and Mental Health (Q1); Public Health, Environmental and Occupational Health (Q1)	Elsevier USA	0.941176470588235	0.995215311004785	1
+1879-1190	54	175	61	220	16	27	Journal of the American College of Surgeons	1210	Surgery (Q1)	Elsevier Inc.	1	1	0.994318181818182
+1532-8651	117	209	75	138	24	19	Regional Anesthesia and Pain Medicine	1227	Anesthesiology and Pain Medicine (Q1); Medicine (miscellaneous) (Q1)	Lippincott Williams and Wilkins Ltd.	1	0.985714285714286	0.916666666666667
+1538-9375	141	204	145	189	52	40	Journal of the American Medical Directors Association	1250	Geriatrics and Gerontology (Q1); Health Policy (Q1); Medicine (miscellaneous) (Q1); Nursing (miscellaneous) (Q1)	Elsevier Inc.	0.975609756097561	0.994736842105263	0.980769230769231
+1879-0887	174	246	113	259	27	59	Radiotherapy and Oncology	1316	Hematology (Q1); Oncology (Q1); Radiology, Nuclear Medicine and Imaging (Q1)	Elsevier Ireland Ltd	0.983333333333333	0.996153846153846	0.995951417004049
+1945-4589	104	366	140	867	63	37	Aging	1324	Aging (Q1); Cell Biology (Q1)	Impact Journals LLC	1	1	0.997275204359673
+1532-6535	99.5	168	106	144	17	24	Clinical Pharmacology and Therapeutics	1335	Pharmacology (Q1); Pharmacology (medical) (Q1)	Wiley-Blackwell	0.96	0.813559322033898	0.954545454545455
+1532-2742	83.5	98	88	103	13	249	Journal of Infection	1339	Infectious Diseases (Q1); Microbiology (medical) (Q1)	W.B. Saunders Ltd	0.996	1	0.98989898989899
+1873-6424	131	881	137	1112	61	11	Environmental Pollution	1355	Health, Toxicology and Mutagenesis (Q1); Medicine (miscellaneous) (Q1); Pollution (Q1); Toxicology (Q1)	Elsevier Ltd.	1	0.996415770609319	0.996606334841629
+1573-2517	144	624	177	701	82	16	Journal of Affective Disorders	1379	Clinical Psychology (Q1); Psychiatry and Mental Health (Q1)	Elsevier	1	0.974965229485396	0.990476190476191
+1538-7836	118.5	130	100	140	10	45	Journal of Thrombosis and Haemostasis	1401	Hematology (Q1); Medicine (miscellaneous) (Q1)	Wiley-Blackwell Publishing Ltd	0.692307692307692	0.679611650485437	0.896551724137931
+1530-8561	122	142	197	125	17	15	Clinical Chemistry	1413	Biochemistry (medical) (Q1); Clinical Biochemistry (Q1)	American Association for Clinical Chemistry Inc.	0.75	0.868055555555556	0.916129032258065
+1878-5832	111	139	108	125	26	15	Drug Discovery Today	1444	Drug Discovery (Q1); Pharmacology (Q1)	Elsevier Ltd.	1	0.992063492063492	1
+1468-2834	169	63	191	115	31	13	Age and Ageing	1497	Aging (Q1); Geriatrics and Gerontology (Q1); Medicine (miscellaneous) (Q1)	Oxford University Press	0.928571428571429	0.966386554621849	1
+1365-2141	126	157	103	309	20	37	British Journal of Haematology	1515	Hematology (Q1)	Wiley-Blackwell Publishing Ltd	0.342592592592593	0.641078838174274	0.471471471471472
+1097-6809	242	346	194	391	27	52	Journal of Vascular Surgery	1543	Cardiology and Cardiovascular Medicine (Q1); Surgery (Q1)	Mosby Inc.	1	0.970223325062035	0.966480446927374
+1527-974X	183.5	52	150.5	100	13	35	Journal of the American Medical Informatics Association : JAMIA	1547	Health Informatics (Q1)	Oxford University Press	1	0.961538461538461	0.852459016393443
+1097-6787	99	511	88	681	22	149	Journal of the American Academy of Dermatology	1571	Dermatology (Q1)	Mosby Inc.	1	0.995614035087719	0.99031007751938
+1478-3231	117	129	103	169	24	16	Liver International	1597	Hepatology (Q1)	Wiley-Blackwell Publishing Ltd	0.516129032258065	0.775229357798165	0.914893617021277
+1573-2509	142	221	146	268	33	14	Schizophrenia Research	1608	Psychiatry and Mental Health (Q1); Biological Psychiatry (Q2)	Elsevier BV	0.933333333333333	0.996282527881041	0.995515695067265
+1440-1843	104	159	68	107	28.5	16	Respirology	1665	Pulmonary and Respiratory Medicine (Q1)	Wiley-Blackwell Publishing Ltd	1	0.981651376146789	0.975460122699386
+1879-0593	115	179	79.5	240	15	55	Oral Oncology	1718	Cancer Research (Q1); Oncology (Q1); Oral Surgery (Q1)	Elsevier Ltd.	1	1	0.967567567567568
+1365-2923	199	51	74	120	27.5	20	Medical Education	1761	Education (Q1); Medicine (miscellaneous) (Q1)	Wiley-Blackwell Publishing Ltd	0.666666666666667	0.621761658031088	0.408
+1750-2659	143	27	204	54	29	12	Influenza and other Respiratory Viruses	1765	Epidemiology (Q1); Infectious Diseases (Q1); Public Health, Environmental and Occupational Health (Q1); Pulmonary and Respiratory Medicine (Q1)	Wiley-Blackwell Publishing Ltd	1	1	0.931034482758621
+1916-7075	140	172	150	275	27	37	Canadian Journal of Cardiology	1768	Cardiology and Cardiovascular Medicine (Q1)	Elsevier Inc.	1	0.985663082437276	0.988505747126437
+1468-1331	138	119	63	188	19	25	European Journal of Neurology	1772	Neurology (Q1); Neurology (clinical) (Q1)	Wiley-Blackwell Publishing Ltd	0.657894736842105	0.839285714285714	0.952
+1664-302X	143.5	1624	147	1704	96	14	Frontiers in Microbiology	1798	Microbiology (Q1); Microbiology (medical) (Q1)	Frontiers Media S.A.	1	1	1
+1873-2518	158	582	143	524	68.5	20	Vaccine	1814	Immunology and Microbiology (miscellaneous)  (Q1); Infectious Diseases (Q1); Molecular Medicine (Q1); Public Health, Environmental and Occupational Health (Q1); Veterinary (miscellaneous) (Q1)	Elsevier BV	0.952380952380952	0.975791433891992	0.989795918367347
+1879-1026	100	3214	99	3861	27.5	152	Science of the Total Environment	1854	Environmental Chemistry (Q1); Environmental Engineering (Q1); Pollution (Q1); Waste Management and Disposal (Q1)	Elsevier	0.987012987012987	0.98949256791389	0.993201483312732
+2234-943X	134	598	152	1174	69	13	Frontiers in Oncology	1867	Oncology (Q1); Cancer Research (Q2)	Frontiers Media S.A.	1	1	1
+1476-5365	123	149	118	195	29	10	Bone Marrow Transplantation	1895	Hematology (Q1); Transplantation (Q1)	Nature Publishing Group	0.909090909090909	0.942028985507246	0.908536585365854
+1999-4915	40	617	42	669	35.5	42	Viruses	1913	Infectious Diseases (Q1); Virology (Q1)	MDPI Multidisciplinary Digital Publishing Institute	1	0.998507462686567	1
+2235-2988	123	251	141	361	81	11	Frontiers in Cellular and Infection Microbiology	1931	Immunology (Q1); Infectious Diseases (Q1); Medicine (miscellaneous) (Q1); Microbiology (Q1); Microbiology (medical) (Q1)	Frontiers Media S.A.	1	1	1
+1469-994X	167	98	175.5	112	12	13	Nicotine and Tobacco Research	1932	Public Health, Environmental and Occupational Health (Q1)	Oxford University Press	1	0.982456140350877	0.97029702970297
+1096-1186	94	220	100	310	25	58	Pharmacological Research	1973	Pharmacology (Q1)	Academic Press Inc.	0.966666666666667	0.974842767295597	0.960698689956332
+1097-685X	60.5	810	57	796	48	26	Journal of Thoracic and Cardiovascular Surgery	1976	Cardiology and Cardiovascular Medicine (Q1); Pulmonary and Respiratory Medicine (Q1); Surgery (Q1)	Mosby Inc.	1	0.940898345153664	0.917327293318233
+1097-6779	114.5	248	123.5	324	14	28	Gastrointestinal Endoscopy	1993	Gastroenterology (Q1); Radiology, Nuclear Medicine and Imaging (Q1)	Mosby Inc.	1	0.987804878048781	0.98804780876494
+1872-9096	99	122	122.5	98	28	16	Antiviral Research	1995	Pharmacology (Q1); Virology (Q1)	Elsevier	0.941176470588235	1	0.983870967741936
+1432-1084	147	403	142	434	54	55	European Radiology	2032	Medicine (miscellaneous) (Q1); Radiology, Nuclear Medicine and Imaging (Q1)	Springer Verlag	1	0.973094170403587	0.99017199017199
+1532-8414	127	97	138	87	17	10	Journal of Cardiac Failure	2033	Cardiology and Cardiovascular Medicine (Q1)	Churchill Livingstone	0.833333333333333	0.925531914893617	0.915094339622642
+1520-7560	150	73	170	102	26	15	Diabetes/Metabolism Research and Reviews	2061	Endocrinology (Q1); Endocrinology, Diabetes and Metabolism (Q1); Internal Medicine (Q1)	John Wiley and Sons Ltd	1	0.971428571428571	1
+1432-5195	142	93	100	209	26	27	International Orthopaedics	2140	Orthopedics and Sports Medicine (Q1); Surgery (Q1)	Springer Verlag	1	0.981220657276995	0.939393939393939
+1449-2288	182	113	169	173	41	13	International Journal of Biological Sciences	2173	Applied Microbiology and Biotechnology (Q1); Developmental Biology (Q1); Ecology, Evolution, Behavior and Systematics (Q1); Cell Biology (Q2); Molecular Biology (Q2)	Ivyspring International Publisher	0.928571428571429	1	1
+1096-0953	126.5	368	129	682	40	21	Environmental Research	2175	Biochemistry (Q1); Environmental Science (miscellaneous) (Q1)	Academic Press Inc.	1	0.997076023391813	0.997289972899729
+1545-7214	83	139	63	101	32	36	American Journal of Geriatric Psychiatry	2181	Geriatrics and Gerontology (Q1); Psychiatry and Mental Health (Q1)	Elsevier Inc.	0.972972972972973	0.990196078431373	0.992857142857143
+1865-1682	122	147	122	209	42	20	Transboundary and Emerging Diseases	2194	Medicine (miscellaneous) (Q1); Veterinary (miscellaneous) (Q1); Immunology and Microbiology (miscellaneous)  (Q2)	Wiley-Blackwell Publishing Ltd	0.689655172413793	0.846153846153846	0.954545454545455
+1872-7913	131.5	148	133	122	35	59	International Journal of Antimicrobial Agents	2200	Infectious Diseases (Q1); Medicine (miscellaneous) (Q1); Microbiology (medical) (Q1); Pharmacology (medical) (Q1)	Elsevier	0.951612903225806	0.983870967741936	0.980132450331126
+1099-1654	112	30	92.5	10	61.5	18	Reviews in Medical Virology	2218	Infectious Diseases (Q1); Virology (Q2)	John Wiley and Sons Ltd	0.947368421052632	0.714285714285714	0.857142857142857
+2044-8309	261	21	232.5	28	61.5	12	British Journal of Social Psychology	2219	Social Psychology (Q1)	Wiley-Blackwell	0.923076923076923	0.903225806451613	1
+1873-5967	124	73	128	87	22	110	Journal of Clinical Virology	2225	Infectious Diseases (Q1); Virology (Q2)	Elsevier	1	0.97752808988764	1
+1532-7361	142	175	136.5	190	36	14	Surgery	2276	Surgery (Q1)	Mosby Inc.	1	0.994764397905759	0.956284153005464
+1553-2712	88	59	83	98	10	17	Academic Emergency Medicine	2281	Emergency Medicine (Q1); Medicine (miscellaneous) (Q1)	Wiley-Blackwell	0.607142857142857	0.715328467153285	0.67816091954023
+1479-5876	105	227	117	229	40	21	Journal of Translational Medicine	2302	Biochemistry, Genetics and Molecular Biology (miscellaneous) (Q1); Medicine (miscellaneous) (Q1)	BioMed Central Ltd.	1	0.94238683127572	1
+1468-3083	138	178	103	239	25	35	Journal of the European Academy of Dermatology and Venereology	2369	Dermatology (Q1); Infectious Diseases (Q1)	Wiley-Blackwell	0.28	0.495850622406639	0.493074792243767
+1878-3511	73	246	68.5	330	33	209	International Journal of Infectious Diseases	2397	Infectious Diseases (Q1); Medicine (miscellaneous) (Q1); Microbiology (medical) (Q1)	Elsevier	0.995238095238095	1	0.972332015810277
+1525-1497	270	178	150	327	44.5	50	Journal of General Internal Medicine	2398	Internal Medicine (Q1)	Springer Nature	0.943396226415094	0.840616966580977	0.589403973509934
+1465-993X	129	159	139	172	66	14	Respiratory Research	2400	Pulmonary and Respiratory Medicine (Q1)	BioMed Central Ltd.	1	0.977272727272727	1
+1755-3768	192	129	155.5	158	31.5	10	Acta Ophthalmologica	2455	Medicine (miscellaneous) (Q1); Ophthalmology (Q1)	Wiley-Blackwell Publishing Ltd	0.714285714285714	0.951807228915663	0.791411042944785
+1872-8227	109.5	200	104	176	21	65	Diabetes Research and Clinical Practice	2510	Endocrinology (Q1); Endocrinology, Diabetes and Metabolism (Q1); Internal Medicine (Q1); Medicine (miscellaneous) (Q1)	Elsevier Ireland Ltd	0.928571428571429	0.951351351351351	0.966183574879227
+1471-2334	219	637	166	496	97	11	BMC Infectious Diseases	2539	Infectious Diseases (Q1)	BioMed Central Ltd.	0.916666666666667	0.976377952755906	1
+1097-6760	164.5	200	182.5	146	56.5	14	Annals of Emergency Medicine	2547	Emergency Medicine (Q1)	Mosby Inc.	0.933333333333333	0.941935483870968	0.947867298578199
+1532-2157	111	229	101.5	198	13	18	European Journal of Surgical Oncology	2550	Medicine (miscellaneous) (Q1); Oncology (Q1); Surgery (Q1)	W.B. Saunders Ltd	0.947368421052632	0.99	0.987068965517241
+1365-2125	140	164	145	241	38	13	British Journal of Clinical Pharmacology	2582	Pharmacology (Q1); Pharmacology (medical) (Q1)	Wiley-Blackwell Publishing Ltd	1	0.991769547325103	0.976190476190476
+1537-2995	130	307	139	253	54.5	22	Transfusion	2648	Hematology (Q1); Immunology (Q2); Immunology and Allergy (Q2)	Wiley-Blackwell Publishing Ltd	1	0.976833976833977	0.983974358974359
+1876-2867	154	94	149	127	37.5	10	Academic Pediatrics	2667	Pediatrics, Perinatology and Child Health (Q1)	Elsevier Inc.	1	0.9921875	1
+1555-7162	44	312	66	329	38.5	14	American Journal of Medicine	2675	Medicine (miscellaneous) (Q1)	Elsevier Inc.	1	0.993957703927492	0.993630573248408
+1553-5606	189	58	190	38	45.5	20	Journal of Hospital Medicine	2702	Assessment and Diagnosis (Q1); Care Planning (Q1); Fundamentals and Skills (Q1); Health Policy (Q1); Internal Medicine (Q1); Leadership and Management (Q1); Medicine (miscellaneous) (Q1)	Frontline Medical Communications	1	0.513513513513514	0.46031746031746
+2045-2322	199	10243	181	11143	85.5	14	Scientific Reports	2713	Multidisciplinary (Q1)	Nature Publishing Group	1	0.928428595234128	0.978132161955691
+1432-1459	75	284	78.5	316	34	46	Journal of Neurology	2756	Neurology (Q1); Neurology (clinical) (Q1)	D. Steinkopff-Verlag	0.958333333333333	0.954682779456193	0.969283276450512
+2072-6643	43	1524	40	1961	34	21	Nutrients	2766	Food Science (Q1); Nutrition and Dietetics (Q1)	MDPI Multidisciplinary Digital Publishing Institute	1	1	1
+1422-0067	39	3297	39	4663	34	43	International Journal of Molecular Sciences	2808	Computer Science Applications (Q1); Inorganic Chemistry (Q1); Medicine (miscellaneous) (Q1); Organic Chemistry (Q1); Physical and Theoretical Chemistry (Q1); Spectroscopy (Q1); Catalysis (Q2); Molecular Biology (Q2)	MDPI Multidisciplinary Digital Publishing Institute	1	0.999785591766724	0.999696785930867
+1873-6513	70.5	170	81	153	17	44	Journal of Pain and Symptom Management	2813	Anesthesiology and Pain Medicine (Q1); Neurology (clinical) (Q1); Nursing (miscellaneous) (Q1)	Elsevier Inc.	1	0.962264150943396	0.982658959537572
+1532-2939	62	133	65.5	126	14.5	90	Journal of Hospital Infection	2885	Infectious Diseases (Q1); Medicine (miscellaneous) (Q1); Microbiology (medical) (Q1)	W.B. Saunders Ltd	1	0.969230769230769	0.985185185185185
+1552-6259	126	541	118	660	17.5	40	Annals of Thoracic Surgery	2892	Cardiology and Cardiovascular Medicine (Q1); Pulmonary and Respiratory Medicine (Q1); Surgery (Q1)	Elsevier USA	1	1	1
+1435-702X	132	190	120	229	22	32	Graefe's Archive for Clinical and Experimental Ophthalmology	2987	Ophthalmology (Q1); Sensory Systems (Q2); Cellular and Molecular Neuroscience (Q3)	Springer Verlag	1	0.991341991341991	0.984455958549223
+1532-3064	150	175	145.5	88	39.5	12	Respiratory Medicine	3035	Pulmonary and Respiratory Medicine (Q1)	W.B. Saunders Ltd	1	0.977777777777778	0.98314606741573
+1472-6491	222.5	134	191	131	55	14	Reproductive BioMedicine Online	3121	Obstetrics and Gynecology (Q1); Reproductive Medicine (Q1); Developmental Biology (Q2)	Elsevier	1	0.963235294117647	0.930555555555556
+1664-0640	166.5	514	167	735	81	10	Frontiers in Psychiatry	3123	Psychiatry and Mental Health (Q1)	Frontiers Media S.A.	1	0.998641304347826	1
+1531-4995	110	341	119	351	53	24	Laryngoscope	3126	Otorhinolaryngology (Q1)	Wiley-Blackwell	1	0.997159090909091	0.861111111111111
+1663-9812	139	811	156	1185	74.5	14	Frontiers in Pharmacology	3130	Pharmacology (Q1); Pharmacology (medical) (Q1)	Frontiers Media S.A.	1	1	1
+1099-1611	114.5	174	130	115	41	14	Psycho-Oncology	3172	Psychiatry and Mental Health (Q1); Experimental and Cognitive Psychology (Q2); Oncology (Q2)	John Wiley and Sons Ltd	0.933333333333333	0.966386554621849	0.983050847457627
+1438-8871	201	374	206.5	480	31	55	Journal of Medical Internet Research	3315	Health Informatics (Q1)	Journal of medical Internet Research	0.808823529411765	0.907372400756144	0.997333333333333
+1567-7257	107.5	212	109	214	37.5	28	Infection, Genetics and Evolution	3326	Ecology, Evolution, Behavior and Systematics (Q1); Genetics (Q2); Infectious Diseases (Q2); Microbiology (Q2); Microbiology (medical) (Q2); Molecular Biology (Q2)	Elsevier	1	1	1
+1435-4373	76	180	82	171	45	21	European Journal of Clinical Microbiology and Infectious Diseases	3384	Medicine (miscellaneous) (Q1); Infectious Diseases (Q2); Microbiology (medical) (Q2)	Springer Verlag	1	1	0.983606557377049
+1476-5640	147	91	155	126	32	10	European Journal of Clinical Nutrition	3411	Medicine (miscellaneous) (Q1); Nutrition and Dietetics (Q1)	Nature Publishing Group	1	0.992125984251969	0.978494623655914
+1365-2362	166	60	107.5	80	25	27	European Journal of Clinical Investigation	3430	Clinical Biochemistry (Q1); Medicine (miscellaneous) (Q1); Biochemistry (Q2)	Wiley-Blackwell Publishing Ltd	0.692307692307692	0.776699029126214	0.9375
+1097-0347	225	307	190	191	17	98	Head and Neck	3432	Otorhinolaryngology (Q1)	John Wiley and Sons Inc.	1	0.994791666666667	0.990322580645161
+1476-5454	206	207	107	294	28.5	40	Eye	3481	Arts and Humanities (miscellaneous) (Q1); Medicine (miscellaneous) (Q1); Ophthalmology (Q1); Sensory Systems (Q2)	Nature Publishing Group	0.975609756097561	0.96078431372549	0.981042654028436
+1496-8975	119	151	86	140	17.5	52	Canadian Journal of Anaesthesia	3488	Anesthesiology and Pain Medicine (Q1); Medicine (miscellaneous) (Q1)	Springer New York	0.981132075471698	0.985915492957746	0.987096774193548
+1097-6833	134	302	135.5	400	21	28	Journal of Pediatrics	3501	Pediatrics, Perinatology and Child Health (Q1)	Mosby Inc.	1	0.816326530612245	0.768447837150127
+1538-6724	363	63	240	105	26	11	Physical Therapy	3502	Physical Therapy, Sports Therapy and Rehabilitation (Q1)	Oxford University Press	0.916666666666667	0.846774193548387	0.9
+1545-5017	115	295	122.5	286	30.5	34	Pediatric Blood and Cancer	3512	Hematology (Q1); Medicine (miscellaneous) (Q1); Pediatrics, Perinatology and Child Health (Q1); Oncology (Q2)	Wiley-Liss Inc.	0.944444444444444	0.979452054794521	0.980066445182724
+1440-1819	116	67	83	51	25	29	Psychiatry and Clinical Neurosciences	3515	Medicine (miscellaneous) (Q1); Neurology (clinical) (Q1); Psychiatry and Mental Health (Q1); Neurology (Q2); Neuroscience (miscellaneous) (Q2)	Wiley-Blackwell Publishing Ltd	1	0.927272727272727	0.985294117647059
+1743-9159	88	146	23.5	352	13.5	76	International Journal of Surgery	3537	Medicine (miscellaneous) (Q1); Surgery (Q1)	Elsevier BV	0.974358974358974	0.977777777777778	0.906832298136646
+1096-9098	64	212	73	224	20	20	Journal of Surgical Oncology	3555	Medicine (miscellaneous) (Q1); Surgery (Q1); Oncology (Q2)	Wiley-Liss Inc.	1	0.986784140969163	0.986046511627907
+1440-1746	89	165	97	198	26	14	Journal of Gastroenterology and Hepatology	3586	Gastroenterology (Q1); Hepatology (Q2)	Wiley-Blackwell Publishing Ltd	0.933333333333333	0.933962264150943	0.9375
+1433-2981	82	86	92	82	23	21	Clinical Oncology	3630	Radiology, Nuclear Medicine and Imaging (Q1); Oncology (Q2)	W.B. Saunders Ltd	0.954545454545455	1	1
+1557-8615	116	161	134	125	35	11	Journal of Critical Care	3736	Critical Care and Intensive Care Medicine (Q1)	Elsevier BV	1	0.992063492063492	1
+1463-1318	98.5	186	67.5	210	16.5	12	Colorectal Disease	3754	Gastroenterology (Q1)	Wiley-Blackwell Publishing Ltd	0.75	0.752688172043011	0.948979591836735
+1872-7727	164	219	141	273	30	15	European Journal of Radiology	3821	Medicine (miscellaneous) (Q1); Radiology, Nuclear Medicine and Imaging (Q1)	Elsevier Ireland Ltd	1	0.985559566787004	0.977678571428571
+1874-1754	105	521	93	527	31	15	International Journal of Cardiology	3822	Cardiology and Cardiovascular Medicine (Q1)	Elsevier Ireland Ltd	0.882352941176471	0.981378026070763	0.984877126654064
+1661-8564	177	88	211	81	30	14	International Journal of Public Health	4013	Health (social science) (Q1); Public Health, Environmental and Occupational Health (Q1)	Birkhauser Verlag Basel	1	0.987804878048781	0.98876404494382
+1439-0973	117.5	74	103	60	43	25	Infection	4031	Medicine (miscellaneous) (Q1); Infectious Diseases (Q2); Microbiology (medical) (Q2)	Urban und Vogel	0.961538461538461	0.909090909090909	0.925
+1879-0631	75	493	87	656	42	33	Life Sciences	4136	Biochemistry, Genetics and Molecular Biology (miscellaneous) (Q1); Medicine (miscellaneous) (Q1); Pharmacology, Toxicology and Pharmaceutics (miscellaneous) (Q1)	Elsevier Inc.	0.942857142857143	0.971851851851852	0.972386587771203
+1879-1883	114.5	200	127	247	16	20	American Journal of Surgery	4140	Medicine (miscellaneous) (Q1); Surgery (Q1)	Elsevier Inc.	1	0.898181818181818	0.88495575221239
+1932-6203	169	8907	169	8242	59	66	PLoS ONE	4187	Multidisciplinary (Q1)	Public Library of Science	1	0.955261937876681	0.943138500635324
+1872-7123	162	465	131	339	24	120	Psychiatry Research	4211	Psychiatry and Mental Health (Q1); Biological Psychiatry (Q3)	Elsevier Ireland Ltd	1	0.997058823529412	0.987261146496815
+1423-0410	170.5	58	160	62	13.5	12	Vox Sanguinis	4212	Medicine (miscellaneous) (Q1); Hematology (Q2)	Wiley-Blackwell Publishing Ltd	0.75	0.925373134328358	0.90625
+2167-8359	166.5	1092	183	1150	71.5	14	PeerJ	4381	Agricultural and Biological Sciences (miscellaneous) (Q1); Medicine (miscellaneous) (Q1); Biochemistry, Genetics and Molecular Biology (miscellaneous) (Q2); Neuroscience (miscellaneous) (Q2)	PeerJ Inc.	1	0.999131190269331	0.999085086916743
+1878-1705	101	393	91	560	54	14	International Immunopharmacology	4398	Pharmacology (Q1); Immunology (Q2); Immunology and Allergy (Q2)	Elsevier	1	0.972222222222222	0.98992443324937
+1527-3296	123	159	106	155	43.5	72	American Journal of Infection Control	4413	Health Policy (Q1); Public Health, Environmental and Occupational Health (Q1); Epidemiology (Q2); Infectious Diseases (Q2)	Mosby Inc.	1	0.987261146496815	0.85945945945946
+2044-8287	215	31	195.5	34	43.5	12	British Journal of Health Psychology	4414	Medicine (miscellaneous) (Q1); Applied Psychology (Q2)	Wiley-Blackwell	1	0.971428571428571	1
+1745-6215	224	442	172.5	576	23	51	Trials	4462	Medicine (miscellaneous) (Q1); Pharmacology (medical) (Q1)	BioMed Central Ltd.	0.894736842105263	0.955223880597015	1
+1558-349X	101.5	270	96	217	26	42	Journal of the American College of Radiology	4477	Radiology, Nuclear Medicine and Imaging (Q1)	Elsevier BV	0.954545454545455	1	0.992647058823529
+1472-4146	83	91	75	105	22	17	Journal of Clinical Pathology	4520	Medicine (miscellaneous) (Q1); Pathology and Forensic Medicine (Q1)	BMJ Publishing Group	0.944444444444444	0.963302752293578	0.989130434782609
+1878-4046	84.5	166	95	209	22	48	Academic Radiology	4637	Radiology, Nuclear Medicine and Imaging (Q1)	Elsevier USA	1	0.995238095238095	0.994011976047904
+1437-4331	121	38	98	131	27.5	50	Clinical Chemistry and Laboratory Medicine	4690	Biochemistry (medical) (Q1); Clinical Biochemistry (Q1); Medicine (miscellaneous) (Q1)	Walter de Gruyter GmbH	0.980392156862745	0.935714285714286	0.904761904761905
+1995-9133	204	58	143.5	56	23	55	Journal of Microbiology, Immunology and Infection	4693	Medicine (miscellaneous) (Q1); Immunology and Allergy (Q2); Immunology and Microbiology (miscellaneous)  (Q2); Infectious Diseases (Q2); Microbiology (medical) (Q2)	Elsevier Taiwan LLC	1	1	0.983050847457627
+1432-0584	129.5	172	128	270	31	21	Annals of Hematology	4705	Medicine (miscellaneous) (Q1); Hematology (Q2)	Springer Verlag	1	0.992647058823529	0.988505747126437
+1530-0447	130	224	142	292	32	22	Pediatric Research	4711	Pediatrics, Perinatology and Child Health (Q1)	Lippincott Williams and Wilkins Ltd.	1	0.948051948051948	0.949152542372881
+1099-0496	135	186	115	265	33	28	Pediatric Pulmonology	4843	Pediatrics, Perinatology and Child Health (Q1); Pulmonary and Respiratory Medicine (Q2)	Wiley-Liss Inc.	1	0.910652920962199	0.973821989528796
+1522-726X	106	301	80	367	23	26	Catheterization and Cardiovascular Interventions	4899	Medicine (miscellaneous) (Q1); Radiology, Nuclear Medicine and Imaging (Q1); Cardiology and Cardiovascular Medicine (Q2)	Wiley-Liss Inc.	0.896551724137931	0.98921832884097	0.974110032362459
+1879-1409	191	120	142	117	31	12	Burns	4979	Critical Care and Intensive Care Medicine (Q1); Emergency Medicine (Q1); Medicine (miscellaneous) (Q1); Surgery (Q1)	Elsevier Ltd.	1	0.991525423728813	1
+1532-7361	142	175	136.5	190	36	14	Surgery	21388	Surgery (Q4)	Elsevier BV	1	0.994764397905759	0.956284153005464

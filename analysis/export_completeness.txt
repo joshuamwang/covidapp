@@ -1,0 +1,350 @@
+Journal	covid	noncovid	precovid
+Cell	0.75	0.659722222222222	0.737463126843658
+Nature Reviews Immunology	0		
+New England Journal of Medicine	0		
+Nature Medicine	0.337209302325581	0.469298245614035	0.5
+The Lancet Oncology	0.666666666666667	0.809917355371901	0.66189111747851
+The Lancet	0.791808873720137	0.686708860759494	0.689866939611054
+Nature	0.132575757575758	0.354208754208754	0.37417943107221
+Science	0.238341968911917	0.423672566371681	0.389199255121043
+Nature Biotechnology	0.111111111111111	0.370535714285714	0.28921568627451
+Immunity	0.454545454545455	0.639344262295082	0.699386503067485
+The Lancet Neurology	0.7	0.672566371681416	0.653333333333333
+Journal of the American College of Cardiology	0.710526315789474	0.899803536345776	0.893884892086331
+The Lancet Diabetes and Endocrinology	0.75	0.868686868686869	0.732283464566929
+The Lancet Infectious Diseases	0.879746835443038	0.778242677824268	0.846473029045643
+The Lancet Global Health	0.934426229508197	0.892086330935252	0.894179894179894
+Gut	1	0.983240223463687	0.965116279069768
+JAMA Oncology	0		
+Lancet Respiratory Medicine,The	0.761363636363636	0.6875	0.698630136986301
+Cancer Discovery	0.222222222222222	0.242798353909465	0.322147651006711
+Circulation	0		
+Nature Reviews Drug Discovery	0		
+The Lancet Psychiatry	0.918367346938776	0.774436090225564	0.791411042944785
+MMWR. Morbidity and mortality weekly report	0		
+Gastroenterology	0.94	0.917293233082707	0.802110817941952
+Journal of Hepatology	1	0.982758620689655	0.981900452488688
+Diabetes Care	0.85	0.807086614173228	0.698924731182796
+Annals of the Rheumatic Diseases	1	0.984189723320158	0.957746478873239
+Cell Research	0.769230769230769	0.623762376237624	0.666666666666667
+JAMA Internal Medicine	0		
+ACS Nano	0		
+Nature Reviews Gastroenterology and Hepatology	0		
+eLife	1	0.984037558685446	0.987542468856172
+Journal of Clinical Investigation	0.05	0.556521739130435	0.339160839160839
+European Heart Journal	0.273809523809524	0.352144469525959	0.288828337874659
+American Journal of Respiratory and Critical Care Medicine	0		
+Nature Communications	0.952380952380952	0.944582299421009	0.938500156887355
+European Journal of Heart Failure	1	0.972727272727273	0.957142857142857
+Blood	0.545454545454545	0.615241635687732	0.531468531468532
+Hepatology	0.0833333333333333	0.119298245614035	0.764462809917355
+JACC: Heart Failure	0.7	0.927083333333333	0.937007874015748
+Proceedings of the National Academy of Sciences of the United States of America	0		
+Annals of Neurology	1	1	0.984
+EMBO Molecular Medicine	0.25	0.828947368421053	0.207547169811321
+Annals of Internal Medicine	0		
+Circulation Research	0		
+JAMA Pediatrics	0		
+Ophthalmology	1	0.974169741697417	0.973404255319149
+Journal of the American Society of Nephrology : JASN	0.444444444444444	0.715277777777778	0.687074829931973
+Clinical Infectious Diseases	1	0.906555090655509	0.729468599033817
+Arthritis and Rheumatology	0.3		
+Leukemia	1	0.943396226415094	0.939226519337017
+Journal of Heart and Lung Transplantation	1	0.966942148760331	0.98019801980198
+mBio	0		
+Health Affairs	0		
+Annals of Surgery	0		
+British Journal of Sports Medicine	0		
+Journal of Allergy and Clinical Immunology	1	0.984313725490196	0.974264705882353
+Journal of the American Society of Echocardiography	0.95	0.818181818181818	0.833333333333333
+BMC Medicine	0.96969696969697	0.982035928143713	1
+Intensive Care Medicine	0.386666666666667	0.640909090909091	0.744565217391304
+European Journal of Epidemiology	1	0.981132075471698	0.951612903225806
+Kidney International	1	0.977099236641221	0.988
+European Journal of Cancer	1	0.985576923076923	0.994708994708995
+European Respiratory Journal	1	0.971128608923885	0.991769547325103
+Alimentary Pharmacology and Therapeutics	0.315789473684211	0.578260869565217	0.537878787878788
+Journal of Neurology, Neurosurgery and Psychiatry	1	0.991735537190083	0.983606557377049
+American Journal of Obstetrics and Gynecology	0.939393939393939	0.940594059405941	0.977346278317152
+Thorax	0.363636363636364	0.780701754385965	0.784313725490196
+Journal of Thoracic Oncology	1	0.993548387096774	0.965
+Resuscitation	0.972222222222222	0.995951417004049	1
+Stroke	0		
+Cancer	0.833333333333333	0.866295264623956	0.791304347826087
+Allergy: European Journal of Allergy and Clinical Immunology	0.594594594594595	0.735177865612648	0.567441860465116
+Eurosurveillance	0		
+Neurology	0.833333333333333	0.484496124031008	0.50593471810089
+Critical Care Medicine	0		
+American Journal of Transplantation	0.744186046511628	0.681506849315069	0.83419689119171
+Radiology	0		
+Movement Disorders	1	0.995121951219512	0.962765957446809
+Journal of Infectious Diseases	0.98	0.823529411764706	0.887387387387387
+Clinical Journal of the American Society of Nephrology	0.214285714285714	0.385057471264368	0.412121212121212
+Clinical Microbiology and Infection	1	0.975	0.981042654028436
+Hypertension	0		
+Psychological Medicine	0		
+American Heart Journal	0.923076923076923	0.963235294117647	0.915254237288136
+Heart Rhythm	1	1	0.984693877551021
+Ultrasound in Obstetrics and Gynecology	0.652173913043478	0.926174496644295	0.868686868686869
+American Journal of Kidney Diseases	1	0.984962406015038	0.945578231292517
+Pediatrics	0		
+Emerging Infectious Diseases	0		
+Environmental Science & Technology	0		
+Journal of Clinical Epidemiology	0.9375	0.952941176470588	0.936507936507937
+Journal of Internal Medicine	0.764705882352941	0.666666666666667	0
+Cardiovascular Research	0.533333333333333	0.72	0.641221374045801
+Oncologist	1	0.967105263157895	0.996
+Journal of Clinical Microbiology	0.0833333333333333	0.459183673469388	0.6
+Chest	0.982758620689655	1	0.98989898989899
+Brain, Behavior, and Immunity	1	0.973404255319149	0.99163179916318
+American Journal of Gastroenterology	0		
+Cellular and Molecular Immunology	0.956521739130435	0.984732824427481	0.972602739726027
+European Heart Journal Cardiovascular Imaging	0.615384615384615	0.841059602649007	0.463414634146342
+Journal of Travel Medicine	0.927536231884058	0.843137254901961	1
+Diabetes, Obesity and Metabolism	1	0.976608187134503	0.976608187134503
+British Journal of Pharmacology	0.952380952380952	0.928934010152284	0.951807228915663
+Journal of Bone and Joint Surgery - Series A	0		
+Journal of Arthroplasty	1	0.987679671457906	0.978823529411765
+Circulation. Cardiovascular quality and outcomes	0		
+Journal of Clinical Endocrinology and Metabolism	1	0.971204188481675	0.936046511627907
+Gynecologic Oncology	0.636363636363636	0.942528735632184	0.93953488372093
+Cytokine and Growth Factor Reviews	0.823529411764706	0.966666666666667	1
+American Journal of Hematology	1	0.983333333333333	1
+Journal of Virology	0.409090909090909	0.691489361702128	0.962145110410095
+British Journal of Anaesthesia	0.988235294117647	0.995348837209302	0.9765625
+Critical Care	1	0.928571428571429	0.953307392996109
+Journal of the American Heart Association	0		
+Obstetrics and Gynecology	0		
+Theranostics	1	0.978388998035363	0.996699669966997
+Fertility and Sterility	0.8	1	0.996336996336996
+British Journal of Surgery	1	0.925795053003534	0.926553672316384
+Autoimmunity Reviews	1	0.986666666666667	0.936170212765957
+American Journal of Epidemiology	0.9	0.903225806451613	0.991596638655462
+Academic Medicine	0		
+Journal of Antimicrobial Chemotherapy	0.2	0.787072243346008	0.774509803921569
+Heart	0.642857142857143	0.535885167464115	0.615740740740741
+Clinical Gastroenterology and Hepatology	0.973684210526316	0.967455621301775	0.958456973293769
+American Journal of Public Health	0		
+Journal of Vocational Behavior	0		
+Journal of Urology	0		
+Mayo Clinic Proceedings	1	0.99537037037037	0.988
+Antimicrobial Agents and Chemotherapy	0.142857142857143	0.604878048780488	0.902366863905325
+Metabolism: Clinical and Experimental	0.91304347826087	0.960526315789474	0.988636363636364
+European Journal of Nuclear Medicine and Molecular Imaging	0.846153846153846	0.852941176470588	0.964285714285714
+Frontiers in Immunology	1	1	1
+Journal of Autoimmunity	1	0.954545454545455	0.987951807228916
+Clinical Research in Cardiology	1	0.932038834951456	0.991452991452991
+Journal of Adolescent Health	0.941176470588235	0.995215311004785	1
+Journal of the American College of Surgeons	1	1	0.994318181818182
+Anesthesiology	0		
+Regional Anesthesia and Pain Medicine	1	0.985714285714286	0.916666666666667
+British Journal of Dermatology	0		
+Journal of Anxiety Disorders	0.8	0.978260869565217	0.970588235294118
+Journal of the American Medical Directors Association	0.975609756097561	0.994736842105263	0.980769230769231
+British Medical Journal	0		
+BJU International	0.0555555555555556	0.0242424242424242	0
+BJOG: An International Journal of Obstetrics and Gynaecology	0		
+Radiotherapy and Oncology	0.983333333333333	0.996153846153846	0.995951417004049
+Aging	1	1	0.997275204359673
+Clinical Pharmacology and Therapeutics	0.96	0.813559322033898	0.954545454545455
+Journal of Infection	0.996	1	0.98989898989899
+Environmental Pollution	1	0.996415770609319	0.996606334841629
+International Journal of Stroke	0		
+Journal of Affective Disorders	1	0.974965229485396	0.990476190476191
+Journal of Thrombosis and Haemostasis	0.692307692307692	0.679611650485437	0.896551724137931
+Clinical Chemistry	0.75	0.868055555555556	0.916129032258065
+Plastic and Reconstructive Surgery	0		
+Drug Discovery Today	1	0.992063492063492	1
+Journal of Business Research	0.916666666666667		
+Age and Ageing	0.928571428571429	0.966386554621849	1
+British Journal of Haematology	0.342592592592593	0.641078838174274	0.471471471471472
+Journal of Clinical Psychiatry	0.4	0.515463917525773	0.59493670886076
+Journal of Vascular Surgery	1	0.970223325062035	0.966480446927374
+Journal of the American Medical Informatics Association : JAMIA	1	0.961538461538461	0.852459016393443
+Diabetes Technology and Therapeutics	0		
+Journal of the American Academy of Dermatology	1	0.995614035087719	0.99031007751938
+Annals of the American Thoracic Society	0		
+Liver International	0.516129032258065	0.775229357798165	0.914893617021277
+Thrombosis and Haemostasis	0		
+Schizophrenia Research	0.933333333333333	0.996282527881041	0.995515695067265
+AIDS and Behavior	0		
+Knee Surgery, Sports Traumatology, Arthroscopy	0.9	0.970394736842105	0.979094076655052
+Respirology	1	0.981651376146789	0.975460122699386
+Inflammatory Bowel Diseases	0.380952380952381	0.650537634408602	0.82
+Oral Oncology	1	1	0.967567567567568
+Anaesthesia	0.0441176470588235	0.00961538461538462	0
+American Psychologist	0		
+Medical Education	0.666666666666667	0.621761658031088	0.408
+Journal of Epidemiology and Community Health	0.75	0.961904761904762	0.94392523364486
+Influenza and other Respiratory Viruses	1	1	0.931034482758621
+Canadian Journal of Cardiology	1	0.985663082437276	0.988505747126437
+European Journal of Neurology	0.657894736842105	0.839285714285714	0.952
+Frontiers in Microbiology	1	1	1
+Acta Orthopaedica	0		
+Vaccine	0.952380952380952	0.975791433891992	0.989795918367347
+Science of the Total Environment	0.987012987012987	0.98949256791389	0.993201483312732
+Frontiers in Oncology	1	1	1
+Journal of Neurosurgery	0		
+Bone Marrow Transplantation	0.909090909090909	0.942028985507246	0.908536585365854
+Viruses	1	0.998507462686567	1
+Frontiers in Cellular and Infection Microbiology	1	1	1
+Nicotine and Tobacco Research	1	0.982456140350877	0.97029702970297
+Pharmacological Research	0.966666666666667	0.974842767295597	0.960698689956332
+Journal of Thoracic and Cardiovascular Surgery	1	0.940898345153664	0.917327293318233
+Journal of Trauma and Acute Care Surgery	0		
+Gastrointestinal Endoscopy	1	0.987804878048781	0.98804780876494
+Antiviral Research	0.941176470588235	1	0.983870967741936
+Journal of Rheumatology	0		
+GeroScience	0.9	0.985507246376812	1
+European Radiology	1	0.973094170403587	0.99017199017199
+Journal of Cardiac Failure	0.833333333333333	0.925531914893617	0.915094339622642
+Diabetes/Metabolism Research and Reviews	1	0.971428571428571	1
+Infection Control and Hospital Epidemiology	0		
+International Orthopaedics	1	0.981220657276995	0.939393939393939
+Neurosurgery	0.133333333333333	0.76824034334764	0.846153846153846
+International Journal of Biological Sciences	0.928571428571429	1	1
+Environmental Research	1	0.997076023391813	0.997289972899729
+American Journal of Geriatric Psychiatry	0.972972972972973	0.990196078431373	0.992857142857143
+Transboundary and Emerging Diseases	0.689655172413793	0.846153846153846	0.954545454545455
+International Journal of Antimicrobial Agents	0.951612903225806	0.983870967741936	0.980132450331126
+Reviews in Medical Virology	0.947368421052632	0.714285714285714	0.857142857142857
+British Journal of Social Psychology	0.923076923076923	0.903225806451613	1
+Journal of Clinical Virology	1	0.97752808988764	1
+American Journal of Physiology - Lung Cellular and Molecular Physiology	0		
+Surgery	1	0.994764397905759	0.956284153005464
+Academic Emergency Medicine	0.607142857142857	0.715328467153285	0.67816091954023
+Endoscopy	0		
+Journal of Translational Medicine	1	0.94238683127572	1
+European Journal of Preventive Cardiology	0		
+Journal of the European Academy of Dermatology and Venereology	0.28	0.495850622406639	0.493074792243767
+International Journal of Infectious Diseases	0.995238095238095	1	0.972332015810277
+Journal of General Internal Medicine	0.943396226415094	0.840616966580977	0.589403973509934
+Respiratory Research	1	0.977272727272727	1
+JAMA Otolaryngology - Head and Neck Surgery	0		
+American Journal of Physiology - Endocrinology and Metabolism	0		
+Acta Ophthalmologica	0.714285714285714	0.951807228915663	0.791411042944785
+Anesthesia and Analgesia	0		
+Diabetes Research and Clinical Practice	0.928571428571429	0.951351351351351	0.966183574879227
+International Journal for Equity in Health	1		
+BMC Infectious Diseases	0.916666666666667	0.976377952755906	1
+Annals of Emergency Medicine	0.933333333333333	0.941935483870968	0.947867298578199
+European Journal of Surgical Oncology	0.947368421052632	0.99	0.987068965517241
+British Journal of Clinical Pharmacology	1	0.991769547325103	0.976190476190476
+Transfusion	1	0.976833976833977	0.983974358974359
+Academic Pediatrics	1	0.9921875	1
+American Journal of Medicine	1	0.993957703927492	0.993630573248408
+Journal of Hospital Medicine	1	0.513513513513514	0.46031746031746
+Scientific Reports	1	0.928428595234128	0.978132161955691
+Medical Teacher	0		
+Pediatric Allergy and Immunology	0.9	0.697247706422018	0.681818181818182
+Journal of Neurology	0.958333333333333	0.954682779456193	0.969283276450512
+Nutrients	1	1	1
+Rhinology	0		
+International Journal of Molecular Sciences	1	0.999785591766724	0.999696785930867
+Journal of Pain and Symptom Management	1	0.962264150943396	0.982658959537572
+Journal of the American Academy of Orthopaedic Surgeons, The	0		
+Journal of Hospital Infection	1	0.969230769230769	0.985185185185185
+Annals of Thoracic Surgery	1	1	1
+ACS Chemical Neuroscience	0		
+American Journal of Roentgenology	0		
+Digestive Endoscopy	0.470588235294118		
+International Journal of Tuberculosis and Lung Disease	0		
+Graefe's Archive for Clinical and Experimental Ophthalmology	1	0.991341991341991	0.984455958549223
+Acta Obstetricia et Gynecologica Scandinavica	0.6	0.851851851851852	0.908396946564885
+Respiratory Medicine	1	0.977777777777778	0.98314606741573
+BMJ Open	0		
+Safety Science	0.909090909090909		
+Reproductive BioMedicine Online	1	0.963235294117647	0.930555555555556
+Frontiers in Psychiatry	1	0.998641304347826	1
+Laryngoscope	1	0.997159090909091	0.861111111111111
+Frontiers in Pharmacology	1	1	1
+Cytometry Part A	0.636363636363636	0.863013698630137	0.91304347826087
+Family Process	0		
+Psycho-Oncology	0.933333333333333	0.966386554621849	0.983050847457627
+Clinical Immunology	1		
+Transplant International	0.142857142857143		
+Headache	1	0.753623188405797	0
+Virus Research	1		
+Journal of Medical Internet Research	0.808823529411765	0.907372400756144	0.997333333333333
+Infection, Genetics and Evolution	1	1	1
+Sleep Medicine	0.8	0.895833333333333	0.9375
+American Journal of Tropical Medicine and Hygiene	0		
+Otolaryngology - Head and Neck Surgery	0		
+International Psychogeriatrics	0		
+European Journal of Clinical Microbiology and Infectious Diseases	1	1	0.983606557377049
+European Journal of Clinical Nutrition	1	0.992125984251969	0.978494623655914
+European Journal of Clinical Investigation	0.692307692307692	0.776699029126214	0.9375
+Head and Neck	1	0.994791666666667	0.990322580645161
+Obesity Surgery	0.238095238095238	0.169082125603865	0
+Eye	0.975609756097561	0.96078431372549	0.981042654028436
+Canadian Journal of Anaesthesia	0.981132075471698	0.985915492957746	0.987096774193548
+Journal of Clinical Sleep Medicine	0		
+Journal of Pediatrics	1	0.816326530612245	0.768447837150127
+Physical Therapy	0.916666666666667	0.846774193548387	0.9
+Pediatric Blood and Cancer	0.944444444444444	0.979452054794521	0.980066445182724
+Psychiatry and Clinical Neurosciences	1	0.927272727272727	0.985294117647059
+Journal of Rural Health	0		
+Journal of Pediatric Gastroenterology and Nutrition	0		
+International Journal of Surgery	0.974358974358974	0.977777777777778	0.906832298136646
+Pediatric Infectious Disease Journal	0		
+Journal of Surgical Oncology	1	0.986784140969163	0.986046511627907
+Journal of Gastroenterology and Hepatology	0.933333333333333	0.933962264150943	0.9375
+Epidemiology and Infection	0		
+Expert Review of Anti-Infective Therapy	0		
+Clinical Oncology	0.954545454545455	1	1
+Journal of Nephrology	0.272727272727273	0.857142857142857	0.983606557377049
+Agriculture and Human Values	0		
+Journal of Critical Care	1	0.992063492063492	1
+Colorectal Disease	0.75	0.752688172043011	0.948979591836735
+Human Vaccines and Immunotherapeutics	0		
+ASAIO Journal	0		
+European Journal of Radiology	1	0.985559566787004	0.977678571428571
+International Journal of Cardiology	0.882352941176471	0.981378026070763	0.984877126654064
+Pharmacotherapy	0.5	0.233333333333333	0.0142857142857143
+Frontiers in Neurology	1		
+Archives of Disease in Childhood	0.291666666666667	0.622093023255814	0.722222222222222
+Shock	0		
+International Journal of Public Health	1	0.987804878048781	0.98876404494382
+Journal of Endocrinological Investigation	1		
+Infection	0.961538461538461	0.909090909090909	0.925
+Annals of Oncology	1	0.942408376963351	0
+Chaos, Solitons and Fractals	0.954545454545455		
+Thrombosis Research	0.952380952380952		
+Life Sciences	0.942857142857143	0.971851851851852	0.972386587771203
+American Journal of Surgery	1	0.898181818181818	0.88495575221239
+Journal of Advanced Nursing	0.583333333333333	0.932835820895522	0.977941176470588
+Journal of Orthopaedic Trauma	0		
+PLoS ONE	1	0.955261937876681	0.943138500635324
+Psychiatry Research	1	0.997058823529412	0.987261146496815
+Vox Sanguinis	0.75	0.925373134328358	0.90625
+European Journal of Internal Medicine	1		
+World Journal of Surgery	0		
+Microbes and Infection	1		
+International Journal of Gynecological Cancer	0.5	0.739336492890995	0.830687830687831
+Pathogens and Global Health	0		
+Journal of the Neurological Sciences	1		
+PeerJ	1	0.999131190269331	0.999085086916743
+International Immunopharmacology	1	0.972222222222222	0.98992443324937
+American Journal of Infection Control	1	0.987261146496815	0.85945945945946
+British Journal of Health Psychology	1	0.971428571428571	1
+Trials	0.894736842105263	0.955223880597015	1
+Journal of the American College of Radiology	0.954545454545455	1	0.992647058823529
+Journal of Clinical Pathology	0.944444444444444	0.963302752293578	0.989130434782609
+Epilepsy and Behavior	1		
+Muscle and Nerve	1		
+Academic Radiology	1	0.995238095238095	0.994011976047904
+Clinical Chemistry and Laboratory Medicine	0.980392156862745	0.935714285714286	0.904761904761905
+Journal of Microbiology, Immunology and Infection	1	1	0.983050847457627
+Journal of diabetes science and technology	0		
+Annals of Hematology	1	0.992647058823529	0.988505747126437
+Pediatric Research	1	0.948051948051948	0.949152542372881
+Digestive and Liver Disease	0.926829268292683		
+European Journal of Haematology	0.9	0.840909090909091	0.934426229508197
+British Journal of General Practice	0.173913043478261	0.230508474576271	0.277056277056277
+Oncology	0.2	1	1
+Oncology	0.2	1	1
+Experimental Biology and Medicine	0		
+Journal of Palliative Medicine	0		
+Pediatric Pulmonology	1	0.910652920962199	0.973821989528796
+Catheterization and Cardiovascular Interventions	0.896551724137931	0.98921832884097	0.974110032362459
+Burns	1	0.991525423728813	1
