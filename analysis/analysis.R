@@ -150,13 +150,14 @@ ggviolin(data_long, x = "condition", y = "measurement",
 
 # FIGURE 1A chart - the medians for the top 200 journals
 data_long %>% group_by(condition) %>% summarize(median(measurement))
-
+export_f %>% group_by(Type) %>% summarize(length(Title))
 
 ############ XML record completeness analysis 
 # comparing the list and the filtered list
 
 scimago = read.csv("./scimagojr 2019.csv", sep = ";", stringsAsFactors = F)#, quote = '')
 prefilter = fread("all_COVID.txt", data.table = F, quote="", fill = T) %>% na_if("")
+
 postfilter = fread("export_data.txt", data.table = F, quote="", fill = T) %>% na_if("")
 postfilter_medians = fread("export_medians.txt", data.table = F, quote="", fill = T) %>% na_if("") %>% arrange(Rank)
 
@@ -169,6 +170,19 @@ notcovid = fread("not_COVID.txt", data.table = F, quote="", fill = T) %>% na_if(
 noncovid = notcovid %>% filter(DatePubmed >= as.Date("2020-01-01"), DatePubmed <= as.Date("2020-07-21"))
 precovid = notcovid %>% filter(DatePubmed >= as.Date("2019-01-01"), DatePubmed <= as.Date("2019-07-21"))
 covid = prefilter %>% filter(DatePubmed >= as.Date("2020-01-01"))
+
+# how many total records are there without regard to completeness?
+nrow(noncovid) # 170256
+nrow(precovid) # 151435
+nrow(covid) # 33108
+
+covid$Journal %>% unique() %>% length()
+precovid$Journal %>% unique() %>% length()
+noncovid$Journal %>% unique() %>% length()
+
+
+
+
 
 noncovid_completeness = issn_analysis(noncovid, scimago)
 precovid_completeness = issn_analysis(precovid, scimago)
